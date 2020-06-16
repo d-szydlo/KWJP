@@ -113,7 +113,7 @@ Napisz podobny program w języku Python wykorzystując:
 ## Lista 4
 1. Napisz dekorator, mający za zadanie drukować informacje o czasie wykonywania funkcji.
 2. Załóżmy, że mamy drzewo i reprezentujemy je na liście np. drzewo tree\
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)\
+![tree](https://github.com/d-szydlo/KWJP/blob/master/Lista4/l4tree.png)\
 reprezentujemy jako ```["1", ["2", ["4", ["8", None, None], ["9",None,None]], ["5",None,None]], ["3", ["6", None, None], ["7", None, None]]]```
 Napisz funkcję która generuje w sposób losowy drzewo podanej wysokości oraz generator który przechodzi drzewo w porządku DFS i BFS.
 3. Napisz klasę class Node(object) do reprezentacji pojedynczego węzła drzewa z dowolną liczbą potomków. Podobnie jak w zadaniu poprzednim napisz funkcję która generuje losowo drzewo o danej wysokości i generator który przechodzi drzewo w porządku DFS i BFS.
